@@ -6,5 +6,6 @@
   </head>
   <body>
     <a href="https://tangy-school.surge.sh">Kliknij tutaj</a>
+    <a href="https://zboru.github.io/superkotno/">Kliknij tutaj v1</a>
   </body>
 </html>
